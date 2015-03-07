@@ -1,0 +1,4 @@
+body                                    { font-size: 19px; color: #000; min-height: 100%;}
+.content                                {width:1200px; margin: 0 auto; position: relative;}
+.errors                                 {font-size: 16px; color: red;}
+#submit                                 {padding: 5px 10px; font-size: 22px; color: #fff; background-color: #000; border: none; border-radius: 5px;}
